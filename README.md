@@ -20,3 +20,4 @@ As a client, it is able to get last 10 entities from API `/test/all`
     "err":"reason"
   }
   ```
+- Push your changes to a new branch with name `Date_Fullname`, for example 20210130_Alan_Hsu once you finished.
